@@ -1,0 +1,444 @@
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.exe
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.deps.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.dev.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_Content.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.lref
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.g.resources
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2223_WPF.Properties.Resources.resources
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.GenerateResource.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfoInputs.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfo.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.AssemblyReference.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.exe
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.deps.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.dev.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.AssemblyReference.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_Content.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.lref
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.g.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2223_WPF.Properties.Resources.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.GenerateResource.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfoInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfo.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CoreCompileInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2.017BD58E.Up2Date
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.exe
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.deps.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.dev.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.AssemblyReference.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_Content.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.lref
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.g.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2223_WPF.Properties.Resources.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.GenerateResource.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfoInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfo.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CoreCompileInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2.017BD58E.Up2Date
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - SOLUCIÓ\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.exe
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.deps.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.dev.json
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.AssemblyReference.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_Content.g.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.lref
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.g.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2223_WPF.Properties.Resources.resources
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.GenerateResource.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfoInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfo.cs
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CoreCompileInputs.cache
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2.017BD58E.Up2Date
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+D:\UAB\UAB.2024\LP\Practica\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.exe
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.deps.json
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.json
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.runtimeconfig.dev.json
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.AssemblyReference.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_Content.g.cs
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF_MarkupCompile.lref
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.g.resources
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2223_WPF.Properties.Resources.resources
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.GenerateResource.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfoInputs.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.AssemblyInfo.cs
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CoreCompileInputs.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.csproj.CopyComplete
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll

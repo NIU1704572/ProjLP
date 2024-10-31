@@ -1,0 +1,351 @@
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.exe
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.deps.json
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.json
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.dev.json
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_Content.g.cs
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.cache
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.lref
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.g.resources
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2122_WPF.Properties.Resources.resources
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.GenerateResource.cache
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfoInputs.cache
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfo.cs
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CopyComplete
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.genruntimeconfig.cache
+C:\Users\MARCEL\__projects\GitProjects\LP_OSM_UAB_2122\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-DLL.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-DLL.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.exe
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.deps.json
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.json
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.dev.json
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csprojAssemblyReference.cache
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_Content.g.cs
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.cache
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.lref
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.g.resources
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2122_WPF.Properties.Resources.resources
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.GenerateResource.cache
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfoInputs.cache
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfo.cs
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CoreCompileInputs.cache
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CopyComplete
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\gemma\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.genruntimeconfig.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-DLL.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.exe
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.deps.json
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.json
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.dev.json
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.AssemblyReference.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_Content.g.cs
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.lref
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.g.resources
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2122_WPF.Properties.Resources.resources
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.GenerateResource.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfoInputs.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfo.cs
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CopyComplete
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\UAB\OneDrive - Universitat Autònoma de Barcelona\Documentos - Laboratori de Programacio\LP2021_22\practica\codi\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.genruntimeconfig.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-DLL.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.exe
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.deps.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.runtimeconfig.dev.json
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.AssemblyReference.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_Content.g.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF_MarkupCompile.lref
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.g.resources
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP_OSM_2122_WPF.Properties.Resources.resources
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.GenerateResource.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfoInputs.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.AssemblyInfo.cs
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.dll
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.pdb
+C:\Users\MARCEL\Downloads\codiEstudiants\estudiants\LP-OSM-2122-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2122-WPF.genruntimeconfig.cache
