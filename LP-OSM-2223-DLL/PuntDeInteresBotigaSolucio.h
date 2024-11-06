@@ -5,13 +5,12 @@
 class  PuntDeInteresBotigaSolucio :public PuntDeInteresBase {
 public:
 	
-	//PuntDeInteresBotigaSolucio(XmlElement& el);
-	PuntDeInteresBotigaSolucio(const std::string& nom, const double& lat, const double& lon, const std::string& shop, const std::string& hours, const bool& wheel) :
-		m_shop(shop), m_wheelchair(wheel), m_hours(hours) {
-		Coordinate coord; coord.lat = lat; coord.lon = lon; PuntDeInteresBase(coord, nom);
-	}
+	
+	PuntDeInteresBotigaSolucio(const std::string& nom, const Coordinate& c, const std::string& shop, const std::string& hours, const bool& wheel) :
+		PuntDeInteresBase(c, nom), m_shop(shop), m_wheelchair(wheel), m_hours(hours) {}
 
-	std::string getName() { return this->PuntDeInteresBase::getName(); }
+
+	std::string getName() { return PuntDeInteresBase::getName(); }
 	unsigned int getColor() { 
 		if(m_shop == "supermarket")
 			return 0xA5BE00;
@@ -33,7 +32,7 @@ public:
 
 private:
 	std::string m_shop, m_hours;
-	bool m_wheelchair; //donat que només ot ser Sí/No és booleà
+	bool m_wheelchair; //donat que només pot ser Sí/No és booleà
 };
 
 

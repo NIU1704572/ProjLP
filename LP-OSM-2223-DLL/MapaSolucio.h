@@ -5,22 +5,26 @@
 #include "CamiSolucio.h"
 class MapaSolucio :public MapaBase {
 public:
-	MapaSolucio()
-	{
-		m_interes.push_back(new PuntDeInteresBotigaSolucio("La Millor Pastisseria", 41.4918606, 2.1465411, "bakery", "false", false));
-		m_interes.push_back(new PuntDeInteresRestaurantSolucio("El Millor Restaurant", 41.4902204, 2.1406477, "regional", true));
-	}
+	MapaSolucio(){}
+	~MapaSolucio(){}
 	void getPdis(std::vector<PuntDeInteresBase*>& pdis) override
 	{
-		pdis = m_interes;
+		for (auto it = m_interes.begin(); it != m_interes.end(); it++)
+		{
+			pdis.push_back(*it);
+		}
 	}
+
 	void getCamins(std::vector<CamiBase*>& camins) override
 	{
-		camins.push_back(&m_camins);
+		for (auto it = m_camins.begin(); it != m_camins.end(); it++)
+		{
+			camins.push_back(*it);
+		}
 	}
-	void parsejaXmlElements(std::vector<XmlElement>&) override {}
+	void parsejaXmlElements(std::vector<XmlElement>&) override;
 
 private:
-	CamiSolucio m_camins;
+	std::vector<CamiBase*> m_camins;
 	std::vector<PuntDeInteresBase*> m_interes;
 };

@@ -442,3 +442,4 @@ C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\o
 C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.pdb
 C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.genruntimeconfig.cache
 C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\bin\Debug\netcoreapp3.1\LP-OSM-2223-DLL.dll
+C:\Users\santa\Downloads\VSCE2022 - ALUMNES\VSCE2022 - ALUMNES\LP-OSM-2223-WPF\obj\Debug\netcoreapp3.1\LP-OSM-2223-WPF.sourcelink.json

@@ -4,11 +4,11 @@
 
 class  PuntDeInteresRestaurantSolucio :public PuntDeInteresBase {
 public:
-	//PuntDeInteresRestaurantSolucio(XmlElement& el);
-	PuntDeInteresRestaurantSolucio(const std::string& nom, const double& lat, const double& lon, const std::string& cuisine, const bool& wheel):
-		m_cuisine(cuisine), m_wheels(wheel) { Coordinate coord; coord.lat = lat; coord.lon = lon; PuntDeInteresBase(coord, nom); }
 
-	std::string getName() { return (this->PuntDeInteresBase::getName()); }
+	PuntDeInteresRestaurantSolucio(const std::string& nom, const Coordinate& c, const std::string& cuisine, const bool& wheel):
+		m_cuisine(cuisine), m_wheels(wheel), PuntDeInteresBase(c, nom) {}
+
+	std::string getName() { return (PuntDeInteresBase::getName()); }
 	unsigned int getColor() { 
 			if (m_cuisine == "pizza" && m_wheels)
 				return 0x03FCBA;
@@ -19,7 +19,7 @@ public:
 			if (m_wheels)
 				return 0x251351;
 			else
-				return 0xFFA500;
+				return PuntDeInteresBase::getColor();
 		
 	}
 
