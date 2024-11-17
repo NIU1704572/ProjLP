@@ -1,90 +1,146 @@
 #include "MapaSolucio.h"
+#include "PuntDeInteresBotigaSolucio.h"
+#include "PuntDeInteresRestaurantSolucio.h"
+#include "Util.h"
+#include "PuntDeInteresBase.h"
 
 void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 {
-	using namespace std;
-	for (auto it = el.begin(); it != el.end(); it++)
+	std::vector<XmlElement> ways;
+	if (!m_interes.empty())
 	{
-		if (it->id_element != "node")
-		{
-			//WAY
-			//access
-			//entrance
-			//public transport
-			//highway
-		}
+		for (auto it = m_interes.begin(); it != m_interes.end(); it++)
+			delete(*it);
+		m_interes.clear();
+	}
+	if (!m_camins.empty())
+	{
+		for (auto it = m_camins.begin(); it != m_camins.end(); it++)
+			delete(*it);
+		m_camins.clear();
+	}
+	auto it = el.begin();
+	for (it; it != el.end(); it++)
+	{
+		if ((*it).id_element == "node")
+			parsejaNode((*it));
+		else
+			ways.push_back((*it));
+	}
+	auto it2 = ways.begin();
+	for (it2; it2 < ways.end(); it2++)
+		parsejaCami((*it2));
+}
 
+void MapaSolucio::parsejaNode(const XmlElement& el)
+{
+	Coordinate c;
+	std::string id, nom, tipus, hours, cuisine, shop;
+	bool wheels = false;
+	for (auto it = el.atributs.begin(); it != el.atributs.end(); it++)
+	{
+		if ((*it).first == "id")
+			id = (*it).second;
+		else if ((*it).first == "lat")
+			c.lat = std::stod((*it).second);
+		else if((*it).first == "lon")
+			c.lon = std::stod((*it).second);
+	}
+
+	bool interes = false;
+
+	for (auto it = el.fills.begin(); it != el.fills.end(); it++)
+	{
+		if (it->first == "tag")
+		{
+			auto entireTag = (*it).second;
+			auto valorTag = Util::kvDeTag(entireTag);
+			if (valorTag.first == "name")
+			{
+				nom = valorTag.second;
+				interes = true;
+			}
+			else if (valorTag.first == "highway" || valorTag.first == "public_transport" || valorTag.first == "access" || valorTag.first == "entrance")
+			{
+				interes = false;
+				break;
+			}
+			if (valorTag.first == "wheelchair")
+			{
+				if (valorTag.second == "yes")
+					wheels = true;
+				else
+					wheels = false;
+			}
+			if (valorTag.first == "cuisine")
+			{
+				tipus = "restaurant";
+				cuisine = valorTag.second;
+			}
+			if (valorTag.first == "opening_hours")
+				hours = valorTag.second;
+			if (valorTag.first == "shop")
+			{
+				tipus = "shop";
+				shop = valorTag.second;
+			}
+			if (valorTag.first == "amenity")
+				tipus = valorTag.second;
+		}
+	}
+
+	m_nodes[id] = c;
+	if (interes)
+	{
+		if (tipus == "shop")
+		{
+			PuntDeInteresBotigaSolucio* p = new PuntDeInteresBotigaSolucio(c, nom, shop, hours, wheels);
+			m_interes.push_back(p);
+		}
+		else if (tipus == "restaurant")
+		{
+			PuntDeInteresRestaurantSolucio* p = new PuntDeInteresRestaurantSolucio(c, nom, cuisine, wheels);
+			m_interes.push_back(p);
+		}
 		else
 		{
-			string type, name="", aux1="", aux2="";
-			bool wheelchair = false, amenity = false, way = false , shop = false;
-			Coordinate coord;
-			unsigned long int ID = 0;
-			pair<string, string> valorTag;
-
-			for (int i = 0; i < it->atributs.size(); i++) {
-				// Iterem fins trobar les coordinades
-				if (it->atributs[i].first == "id") {
-					ID = stol(it->atributs[i].second);
-				}
-				if (it->atributs[i].first == "lat") {
-					coord.lat = stod(it->atributs[i].second);
-				}
-				if (it->atributs[i].first == "lon") {
-					coord.lon = stod(it->atributs[i].second);
-				}
-			}//GOOD BERRY GOOD
-
-
-			for (int i = 0; i < it->fills.size(); i++) {
-				// Iterem i avaluem tots els fills que son tags
-				if (it->fills[i].first == "tag") {
-					tags = true;
-					// Emmagatzemem el valor d’aquest tag
-					valorTag = Util::kvDeTag(it->fills[i].second);
-					// Comprovem que es el tag que busquem
-					if (valorTag.first == "name")
-						name = valorTag.second;
-
-					if (valorTag.first == "wheelchair")
-						wheelchair = (valorTag.second == "yes") ? true : false; //comprovació cadira de rodes
-					
-
-
-
-					if (valorTag.first == "cuisine")
-						aux1 = valorTag.second;
-
-
-					if (shop = (!shop && valorTag.first == "shop"))	//check if shop
-						aux1 = valorTag.second;	
-
-
-					if (valorTag.first == "opening_hours")
-					{
-						aux2 = valorTag.second; //comprovació d'horari
-					}
-
-
-					amenity = (!amenity && valorTag.first == "amenity");//check if restaurant
-
-					if (valorTag.first == "highway" || valorTag.first == "public_transport" || valorTag.first == "access" || valorTag.first == "entrance")
-					{
-						way = true;
-						break;
-					}
-				}
-			}
-
-			if (shop)
-				m_interes.push_back(new PuntDeInteresBotigaSolucio(name, coord, aux1, aux2, wheelchair));
-
-
-			else if (amenity && aux1 != "")
-				m_interes.push_back(new PuntDeInteresRestaurantSolucio(name, coord, aux1, wheelchair));
-
-			else if ()
-
+			PuntDeInteresBase* p = new PuntDeInteresBase(c, nom);
+			m_interes.push_back(p);
 		}
+	}
+}
+
+void MapaSolucio::parsejaCami(const XmlElement& el)
+{
+	CamiSolucio* c = new CamiSolucio();
+	bool highway = false;
+	auto it = el.fills.begin();
+
+	while (!highway && it != el.fills.end())
+	{
+		if (it->first == "tag")
+		{
+			auto entireTag = (*it).second;
+			auto valorTag = Util::kvDeTag(entireTag);
+			if (valorTag.first == "highway")
+				highway = true;
+		}
+		it++;
+	}
+
+	if (highway)
+	{
+		std::string ref;
+		auto it = el.fills.begin();
+		for (it; it != el.fills.end(); it++)
+		{
+			if ((*it).first == "nd")
+			{
+				auto entire_nd = (*it).second;
+				ref = entire_nd[0].second;
+				c->afegeixCoord(m_nodes[ref]);
+			}
+		}
+		m_camins.push_back(c);
 	}
 }
