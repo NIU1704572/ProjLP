@@ -1,5 +1,4 @@
 #pragma once
-#include "pch.h"
 
 #include "Common.h"
 #include "PuntDeInteresBase.h"
@@ -14,6 +13,3 @@ class MapaBase {
 		virtual void parsejaXmlElements(std::vector<XmlElement>& xmlElements) = 0;
 
 };
-
-
-
