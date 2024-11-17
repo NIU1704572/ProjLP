@@ -6,8 +6,8 @@ class  PuntDeInteresBotigaSolucio :public PuntDeInteresBase {
 public:
 	
 	
-	PuntDeInteresBotigaSolucio(const std::string& nom, const Coordinate& c, const std::string& shop, const std::string& hours, const bool& wheel) :
-		PuntDeInteresBase(c, nom), m_shop(shop), m_wheelchair(wheel), m_hours(hours) {}
+	PuntDeInteresBotigaSolucio(Coordinate c, std::string nom, std::string shop, std::string hours, bool wheel) :
+		PuntDeInteresBase(c, nom), m_shop(shop), m_hours(hours), m_wheelchair(wheel) {}
 
 
 	std::string getName() { return PuntDeInteresBase::getName(); }
@@ -15,24 +15,26 @@ public:
 		if(m_shop == "supermarket")
 			return 0xA5BE00;
 
-		else if (m_shop == "tobacco")
+		if (m_shop == "tobacco")
 			return 0xFFAD69;
 
-		else if (m_shop == "bakery")
+		if (m_shop == "bakery")
 		{
-			if ((m_hours.find("06:00-22:00") != std::string::npos)? true : false && m_wheelchair)
-				return 0x4CB944;
-
-			else
-				return 0xE85D75;
+			if (m_hours.find("06:00-22:00") != std::string::npos)
+			{
+			    if (m_wheelchair)
+			        return 0x4CB944;
+			}
+            return 0xE85D75;
 		}
-		else
-			return 0xEFD6AC;
+	    return 0xEFD6AC;
 	}
+	std::string getBotiga() { return m_shop; }
+    PuntDeInteresBotigaSolucio* clone() { return new PuntDeInteresBotigaSolucio(*this); }
 
 private:
 	std::string m_shop, m_hours;
-	bool m_wheelchair; //donat que nomÈs pot ser SÌ/No Ès boole‡
+	bool m_wheelchair; //donat que nom√©s pot ser S√≠/No √©s boole√†
 };
 
 
@@ -58,7 +60,7 @@ private:
 		for (int i = 0; i < el.fills.size(); i++) {
 			// Iterem i avaluem tots els fills que son tags
 			if (el.fills[i].first == "tag") {
-				// Emmagatzemem el valor díaquest tag
+				// Emmagatzemem el valor d‚Äôaquest tag
 				valorTag = Util::kvDeTag(el.fills[i].second);
 				// Comprovem que es el tag que busquem
 				if (valorTag.first == "name")
@@ -66,12 +68,12 @@ private:
 
 				if (valorTag.first == "opening_hours")
 				{
-					m_hours = valorTag.second; //comprovaciÛ d'horari
+					m_hours = valorTag.second; //comprovaci√≥ d'horari
 				}
 
 				if (valorTag.first == "wheelchair")
 				{
-					m_wheels = (valorTag.second == "yes") ? true : false; //comprovaciÛ cadira de rodes
+					m_wheels = (valorTag.second == "yes") ? true : false; //comprovaci√≥ cadira de rodes
 				}
 
 				if (valorTag.first == "shop")
