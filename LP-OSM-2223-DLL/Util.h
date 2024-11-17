@@ -1,6 +1,5 @@
 #pragma once
 
-#include "pch.h"
 #include "Common.h"
 #include <math.h>
 #include <cmath>
@@ -8,7 +7,7 @@
 
 class Util {
 	private:
-		static const std::string m_logFileName;  // NomÈs a WPF Gr‡fic (no a Caronte)
+		static const std::string m_logFileName;  // Nom√©s a WPF Gr√†fic (no a Caronte)
 		static double m_PI;
 		static double m_RadiTerraX2;
 
@@ -19,7 +18,7 @@ class Util {
 		static double rad2Deg(double rad);
 
 		static std::pair<std::string, std::string> kvDeTag(std::vector<PAIR_ATTR_VALUE>& atributsTag);
-		static void escriuEnMonitor(std::string text);  // NomÈs a WPF Gr‡fic (no a Caronte)
+		static void escriuEnMonitor(std::string text);  // Nom√©s a WPF Gr√†fic (no a Caronte)
 		
 		static double DistanciaHaversine(double lat1, double lon1, double lat2, double lon2);
 		static double DistanciaHaversine(Coordinate px1, Coordinate px2);
