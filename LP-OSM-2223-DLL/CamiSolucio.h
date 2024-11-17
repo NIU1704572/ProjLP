@@ -1,5 +1,4 @@
 #pragma once
-#include "Util.h"
 #include "CamiBase.h"
 
 class CamiSolucio :public CamiBase {
@@ -8,11 +7,10 @@ public:
 	~CamiSolucio() {}
 
 	std::vector<Coordinate> getCamiCoords() override { return m_cami; }
-	std::string getTipus() { return m_tipus; }
+	CamiSolucio* clone() { return new CamiSolucio(*this); }
 	void afegeixCoord(const Coordinate& c) { m_cami.push_back(c); }
 private:
 	std::vector<Coordinate> m_cami;
-	std::string m_tipus;
 };
 
 
