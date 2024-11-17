@@ -1,4 +1,3 @@
-#include "pch.h"
 #include "MapaRender.h"
 #include "Util.h"
 
@@ -83,7 +82,7 @@ void MapaRender::construeixOSM(const std::string& path_map) {
             m_mapaBase->parsejaXmlElements(result);
         }
     }
-    else {//Aquest missatge sortir‡ quan encara no has fet la part del projecte que carrega el mapa
+    else {//Aquest missatge sortir√† quan encara no has fet la part del projecte que carrega el mapa
         Util::escriuEnMonitor("No has instanciat correctament MapaBase!");
     }
 }
