@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hYHlkR/g8LAp3EnoirFJbQ2bfUUYWUTnnO6Ys3qFw5orF87uFLpoCFmWzVS6e3quh7QiSjYewFFaO5/1Cl33/A==",
+  "dgSpecHash": "iL0ujuMdC9D83aR1h9zM/iCSa/ICDSXpLRdEMwrIpyT22BhdTL07vx186dwe506f6AheppE5nAPhoILNvvlPRw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
+  "projectFilePath": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santa\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "C:\\Users\\santa\\.nuget\\packages\\microsoft.toolkit.ui.xamlhost\\6.1.2\\microsoft.toolkit.ui.xamlhost.6.1.2.nupkg.sha512",

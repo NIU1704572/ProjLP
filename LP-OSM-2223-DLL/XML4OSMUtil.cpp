@@ -1,3 +1,4 @@
+#include "pch.h"
 #include <iostream>
 #include "XML4OSMUtil.h"
 

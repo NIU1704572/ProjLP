@@ -1,3 +1,4 @@
+#include "pch.h"
 #include "MapaRender.h"
 #include "Util.h"
 
@@ -8,7 +9,7 @@ MapaRender::MapaRender() {
     this->m_xml4osm_util = new XML4OSMUtil();
     
     // TODO: Cal que instancieu m_mapaBase amb la vostra MapaSolucio
-    this->m_mapaBase = new MapaSolucio();
+    this->m_mapaBase = nullptr;
 }
 
 // DO NOT TOUCH THIS
@@ -82,10 +83,31 @@ void MapaRender::construeixOSM(const std::string& path_map) {
             m_mapaBase->parsejaXmlElements(result);
         }
     }
-    else {//Aquest missatge sortir√† quan encara no has fet la part del projecte que carrega el mapa
+    else {//Aquest missatge sortir‡ quan encara no has fet la part del projecte que carrega el mapa
         Util::escriuEnMonitor("No has instanciat correctament MapaBase!");
     }
 }
+
+// DO NOT TOUCH THIS
+PuntDeInteresBase * MapaRender::getPoiByIdx(int idx) {
+    std::vector<PuntDeInteresBase*> vec_puntsDeInteres = {};
+    this->m_mapaBase->getPdis(vec_puntsDeInteres);
+
+
+    if (idx < 0 || idx > vec_puntsDeInteres.size())
+        return new PuntDeInteresBase();
+
+    return vec_puntsDeInteres[idx];
+}
+
+// DO NOT TOUCH THIS
+std::vector<Coordinate> MapaRender::shortestPath(PuntDeInteresBase* from, PuntDeInteresBase* to)
+{
+    CamiBase* way = m_mapaBase->buscaCamiMesCurt(from, to);
+    return way->getCamiCoords();
+}
+
+
 
 
 

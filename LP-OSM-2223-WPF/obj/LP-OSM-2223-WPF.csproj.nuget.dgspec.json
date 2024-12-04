@@ -1,14 +1,14 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj": {}
+    "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj": {}
   },
   "projects": {
-    "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj": {
+    "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj": {
       "restore": {
-        "projectUniqueName": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj",
+        "projectUniqueName": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj",
         "projectName": "LP-OSM-2223-DLL",
-        "projectPath": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj",
+        "projectPath": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj",
         "frameworks": {
           "native": {
             "projectReferences": {}
@@ -19,14 +19,14 @@
         "native": {}
       }
     },
-    "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj": {
+    "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
+        "projectUniqueName": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
         "projectName": "LP-OSM-2223-WPF",
-        "projectPath": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
+        "projectPath": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\LP-OSM-2223-WPF.csproj",
         "packagesPath": "C:\\Users\\santa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-WPF\\obj\\",
+        "outputPath": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-WPF\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\santa\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,8 +43,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj": {
-                "projectPath": "C:\\Users\\santa\\Downloads\\VSCE2022 - ALUMNES\\VSCE2022 - ALUMNES\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj"
+              "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj": {
+                "projectPath": "C:\\Users\\santa\\Downloads\\Proj\\LP-OSM-2223-DLL\\LP-OSM-2223-DLL.vcxproj"
               }
             }
           }

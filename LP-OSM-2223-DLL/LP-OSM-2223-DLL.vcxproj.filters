@@ -42,7 +42,13 @@
     <ClInclude Include="PuntDeInteresBase.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="MapaSolucio.h">
+    <ClInclude Include="BallTree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GrafSolucio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PuntDeInteresBotigaSolucio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="CamiSolucio.h">
@@ -51,7 +57,7 @@
     <ClInclude Include="PuntDeInteresRestaurantSolucio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PuntDeInteresBotigaSolucio.h">
+    <ClInclude Include="MapaSolucio.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
@@ -75,6 +81,12 @@
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="PuntDeInteresBase.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="BallTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GrafSolucio.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="MapaSolucio.cpp">

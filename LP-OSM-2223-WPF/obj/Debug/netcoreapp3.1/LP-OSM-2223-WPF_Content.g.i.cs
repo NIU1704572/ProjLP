@@ -8,7 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("lp-osm-2223-dll.dll")]
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("xerces-c_3_2d.dll")]
 
 
