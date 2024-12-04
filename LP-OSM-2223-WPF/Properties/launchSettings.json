@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "LP-OSM-2223-WPF": {
-      "commandName": "Project",
-      "nativeDebugging": true
-    }
-  }
-}
