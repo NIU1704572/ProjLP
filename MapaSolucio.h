@@ -1,8 +1,11 @@
 #pragma once
+#include <algorithm>
 #include "MapaBase.h"
 #include "Util.h"
 #include "unordered_map"
 #include "CamiSolucio.h"
+#include"GrafSolucio.h"
+#include "BallTree.h"
 class MapaSolucio :public MapaBase {
 public:
 	MapaSolucio() {}
@@ -24,10 +27,13 @@ public:
 	}
 	void parsejaXmlElements(std::vector<XmlElement>& el) override;
 
+	virtual CamiBase* buscaCamiMesCurt(PuntDeInteresBase* desde, PuntDeInteresBase* a) override;
+
 private:
 	std::vector<CamiBase*> m_camins;
 	std::vector<PuntDeInteresBase*> m_interes;
 	std::unordered_map<std::string, Coordinate> m_nodes;
+	//Graf graf;
 	//void parsejaNode(const XmlElement& el);
 	//void parsejaCami(const XmlElement& el);
 };
