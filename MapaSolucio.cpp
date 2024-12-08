@@ -138,3 +138,28 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 		}
 	}
 }
+
+
+CamiBase* MapaSolucio::buscaCamiMesCurt(PuntDeInteresBase* desde, PuntDeInteresBase* a)
+{
+	Coordinate Q1, Q2;
+	BallTree tree;
+	std::vector<Coordinate> coordenades, cami;
+	for (auto it = m_camins.begin(); it != m_camins.end(); it++)
+	{
+		cami = (*it)->getCamiCoords();
+		for (auto itC = cami.begin(); itC != cami.end(); itC++)
+		{
+
+			if (coordenades.end() != std::find(coordenades.begin(), coordenades.end(), itC))  //això s'ha de canviar
+				coordenades.push_back(*itC);
+		}
+	}
+	tree.construirArbre(coordenades);
+	
+	Q1 = tree.nodeMesProper(desde->getCoord(), Q1, tree.getArrel());
+	Q2 = tree.nodeMesProper(a->getCoord(), Q1, tree.getArrel());
+	
+	
+	
+}
