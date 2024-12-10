@@ -113,7 +113,7 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 		{
 			if (iter->first == "tag")
 			{
-				auto entireTag = (*iter).second;
+				auto entireTag = iter->second;
 				auto valorTag = Util::kvDeTag(entireTag);
 				if (valorTag.first == "highway")
 					highway = true;
@@ -124,14 +124,16 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 		if (highway)
 		{
 			std::string ref;
-			auto iter = (*it2).fills.begin();
-			for (iter; iter != (*it2).fills.end(); iter++)
+			auto iter = it2->fills.begin();
+			for (iter; iter != it2->fills.end(); iter++)
 			{
-				if ((*iter).first == "nd")
+				if (iter->first == "nd")
 				{
-					auto entire_nd = (*iter).second;
+					auto entire_nd = iter->second;
 					ref = entire_nd[0].second;
 					c->afegeixCoord(m_nodes[ref]);
+					//m_graf.afegeixNode(ref, m_nodes[ref]); ??????????????
+					
 				}
 			}
 			m_camins.push_back(c);
@@ -159,7 +161,6 @@ CamiBase* MapaSolucio::buscaCamiMesCurt(PuntDeInteresBase* desde, PuntDeInteresB
 	
 	Q1 = tree.nodeMesProper(desde->getCoord(), Q1, tree.getArrel());
 	Q2 = tree.nodeMesProper(a->getCoord(), Q1, tree.getArrel());
-	
-	
+
 	
 }
