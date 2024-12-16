@@ -1,6 +1,4 @@
 #include "MapaSolucio.h"
-#include "PuntDeInteresBotigaSolucio.h"
-#include "PuntDeInteresRestaurantSolucio.h"
 #include "Util.h"
 #include "PuntDeInteresBase.h"
 
@@ -29,12 +27,12 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 			bool wheels = false;
 			for (auto iter = (*it).atributs.begin(); iter != (*it).atributs.end(); iter++)
 			{
-				if ((*iter).first == "id")
-					id = (*iter).second;
-				else if ((*iter).first == "lat")
-					c.lat = std::stod((*iter).second);
-				else if ((*iter).first == "lon")
-					c.lon = std::stod((*iter).second);
+				if (iter->first == "id")
+					id = iter->second;
+				else if (iter->first == "lat")
+					c.lat = std::stod(iter->second);
+				else if (iter->first == "lon")
+					c.lon = std::stod(iter->second);
 			}
 
 			bool interes = false;
@@ -43,7 +41,7 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 			{
 				if (iter->first == "tag")
 				{
-					auto entireTag = (*iter).second;
+					auto entireTag = iter->second;
 					auto valorTag = Util::kvDeTag(entireTag);
 					if (valorTag.first == "name")
 					{
@@ -82,21 +80,8 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 			m_nodes[id] = c;
 			if (interes)
 			{
-				if (tipus == "shop")
-				{
-					PuntDeInteresBotigaSolucio* p = new PuntDeInteresBotigaSolucio(c, nom, shop, hours, wheels);
-					m_interes.push_back(p);
-				}
-				else if (tipus == "restaurant")
-				{
-					PuntDeInteresRestaurantSolucio* p = new PuntDeInteresRestaurantSolucio(c, nom, cuisine, wheels);
-					m_interes.push_back(p);
-				}
-				else
-				{
-					PuntDeInteresBase* p = new PuntDeInteresBase(c, nom);
-					m_interes.push_back(p);
-				}
+				PuntDeInteresBase* p = new PuntDeInteresBase(c, nom);
+				m_interes.push_back(p);
 			}
 		}
 		else
@@ -123,7 +108,9 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 
 		if (highway)
 		{
+			//vector<string> v;
 			std::string ref;
+			std::string prev = "";
 			auto iter = it2->fills.begin();
 			for (iter; iter != it2->fills.end(); iter++)
 			{
@@ -132,11 +119,15 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 					auto entire_nd = iter->second;
 					ref = entire_nd[0].second;
 					c->afegeixCoord(m_nodes[ref]);
-					//m_graf.afegeixNode(ref, m_nodes[ref]); ??????????????
-					
+					//v.push_back(ref);
+					m_graf.afegeixNode(ref, m_nodes[ref]);
+					if (prev != "")
+						m_graf.afegeixAresta(ref, prev);
+					prev = ref;
 				}
 			}
 			m_camins.push_back(c);
+			//m_graf.relacionaCami(v);
 		}
 	}
 }
@@ -145,22 +136,23 @@ void MapaSolucio::parsejaXmlElements(std::vector<XmlElement>& el)
 CamiBase* MapaSolucio::buscaCamiMesCurt(PuntDeInteresBase* desde, PuntDeInteresBase* a)
 {
 	Coordinate Q1, Q2;
+
 	BallTree tree;
-	std::vector<Coordinate> coordenades, cami;
-	for (auto it = m_camins.begin(); it != m_camins.end(); it++)
+	vector<Coordinate> vCoord;
+	m_graf.getCoords(vCoord);
+	m_graf.actualitza_nNodes();
+	tree.construirArbre(vCoord);
+	tree.nodeMesProper(desde->getCoord(), Q1, &tree);
+	tree.nodeMesProper(a->getCoord(), Q2, &tree);
+
+	stack<pair<string, Coordinate>> pila;
+	m_graf.camiCurt(Q1, Q2, pila);
+	CamiSolucio* cami = new CamiSolucio;
+
+	for (int i = 0; i < pila.size(); i++)
 	{
-		cami = (*it)->getCamiCoords();
-		for (auto itC = cami.begin(); itC != cami.end(); itC++)
-		{
-
-			if (coordenades.end() != std::find(coordenades.begin(), coordenades.end(), itC))  //això s'ha de canviar
-				coordenades.push_back(*itC);
-		}
+		cami->afegeixCoord(pila.top().second);
+		pila.pop();
 	}
-	tree.construirArbre(coordenades);
-	
-	Q1 = tree.nodeMesProper(desde->getCoord(), Q1, tree.getArrel());
-	Q2 = tree.nodeMesProper(a->getCoord(), Q1, tree.getArrel());
-
-	
+	return cami;
 }
