@@ -33,6 +33,7 @@ private:
 	std::vector<CamiBase*> m_camins;
 	std::vector<PuntDeInteresBase*> m_interes;
 	std::unordered_map<std::string, Coordinate> m_nodes;
+	Graf m_graf;
 	//Graf graf;
 	//void parsejaNode(const XmlElement& el);
 	//void parsejaCami(const XmlElement& el);
