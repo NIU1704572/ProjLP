@@ -79,74 +79,57 @@ double Graf::minDistance(vector<double>& dist, vector<bool>& visitat)
 	return minIndex;
 }
 
-void Graf::camiCurt(const Coordinate& Q1, const Coordinate& Q2, stack<pair<string, Coordinate>>& cami)
+
+
+bool compara(const Coordinate& c1, const Coordinate& c2) {
+	return (c1.lat == c2.lat && c1.lon == c2.lon);
+}
+
+std::vector<Coordinate> Graf::BuscarCami(Coordinate cord1, Coordinate cord2)
 {
-	auto it = m_nodes.begin();
-	auto itNode1 = m_nodes.end();
-	auto itNode2 = m_nodes.end();
-	while (it != m_nodes.end() && (itNode1 == m_nodes.end() || itNode2 == m_nodes.end()))
+	actualitza_nNodes();
+	int indexInicial = -1, indexFinal = -1;
+	std::vector<Coordinate> cami;
+	std::vector<double> dist(m_numNodes, 999999);
+	std::vector<bool> visitat(m_numNodes, false);
+	std::vector<int> previ(m_numNodes, -1);
+
+	for (int i = 0; i < m_numNodes; i++)
 	{
-		if (it->second.lon == Q1.lon && it->second.lat == Q1.lat)
-			itNode1 = it;
-		if (it->second.lon == Q2.lon && it->second.lat == Q2.lat)
-			itNode2 = it;
-		it++;
-	}
-	camiMesCurt(itNode1->first, itNode2->first, cami);
-}
-
-void Graf::dijkstraModif(double node, double node2, vector<double>& dist, vector<double>& anterior) {
-	dist.resize(m_numNodes, DISTMAX);
-	vector<bool> visitat;
-	visitat.resize(m_numNodes, false);
-	anterior.resize(m_numNodes, -1);
-	dist[node] = 0;
-	anterior[node] = node;
-	for (double count = 0; count < m_numNodes - 1; count++) {
-		double posVeiAct = minDistance(dist, visitat);
-		visitat[posVeiAct] = true;
-		if (posVeiAct == node2)
-			return;
-		for (double posVei = 0; posVei < m_numNodes; posVei++)
-			if (m_arestes[posVeiAct][posVei])
-				if (!visitat[posVei])
-					if (dist[posVeiAct] + m_arestes[posVeiAct][posVei] < dist[posVei]) {
-						dist[posVei] = dist[posVeiAct] + m_arestes[posVeiAct][posVei];
-						anterior[posVei] = posVeiAct;
-					}
-	}
-}
-
-
-
-void Graf::camiMesCurt(const string& node1, const string& node2, stack<pair<string, Coordinate>>& cami) {
-
-	auto it = m_nodes.begin();
-	auto itNode1 = m_nodes.end();
-	auto itNode2 = m_nodes.end();
-	while (it != m_nodes.end() && (itNode1 == m_nodes.end() || itNode2 == m_nodes.end()))
-	{
-		if (it->first == node1)
-			itNode1 = it;
-		if (it->first == node2)
-			itNode2 = it;
-		it++;
-	}
-
-	if ((itNode1 != m_nodes.end()) && (itNode2 != m_nodes.end()))
-	{
-		double pos1 = distance(m_nodes.begin(), itNode1);
-		double pos2 = distance(m_nodes.begin(), itNode2);
-		vector<double> anterior;
-		vector<double> vDist;
-		dijkstraModif(pos1, pos2, vDist, anterior);
-		double it = pos2;
-		cami.push(m_nodes[pos2]);
-		while (it != pos1)
+		if (compara(m_nodes[i].second, cord1))
+			indexInicial = i;
+		else
 		{
-			cami.push(m_nodes[anterior[it]]);
-			it = anterior[it];
+			if (compara(m_nodes[i].second, cord2))
+				indexFinal = i;
 		}
 	}
-}
 
+	if (indexInicial != -1 && indexFinal != -1)
+	{
+		dist[indexInicial] = 0;
+
+		for (size_t count = 0; count < m_numNodes - 1; count++)
+		{
+			size_t posVeiAct = minDistance(dist, visitat);
+			visitat[posVeiAct] = true;
+
+			for (int i = 0; i<m_arestes.size(); i++)
+				if (dist[posVeiAct] + m_arestes[posVeiAct][i] < dist[i])
+				{
+					dist[i] = dist[posVeiAct] + m_arestes[posVeiAct][i];
+					previ[i] = posVeiAct;
+				}
+		}
+
+		int nodeCami = indexFinal;
+		while (previ[nodeCami] != -1)
+		{
+			cami.push_back(m_nodes[nodeCami].second);
+			nodeCami = previ[nodeCami];
+		}
+
+		cami.push_back(m_nodes[indexInicial].second);
+	}
+	return cami;
+}

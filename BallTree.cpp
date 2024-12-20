@@ -51,7 +51,7 @@ void BallTree::construirArbre(const std::vector<Coordinate>& coordenades) {
 
 
             vector<Coordinate> A;
-            vector<Coordinate> B;
+            vector<Coordinate> ball;
             if (itB != itA) {
                 for (auto it = coordenades.begin(); it != coordenades.end(); it++)
                 {
@@ -61,7 +61,7 @@ void BallTree::construirArbre(const std::vector<Coordinate>& coordenades) {
                     if (dA < dB)
                         A.push_back(*it);
                     else
-                        B.push_back(*it);
+                        ball.push_back(*it);
 
 
                 }
@@ -69,14 +69,14 @@ void BallTree::construirArbre(const std::vector<Coordinate>& coordenades) {
             else
             {
                 A.push_back(*itA);
-                B.push_back(*itB);
+                ball.push_back(*itB);
             }
 
             m_left = new BallTree;
             m_left->m_root = m_root; m_left->construirArbre(A);
 
             m_right = new BallTree;
-            m_right->m_root = m_root; m_right->construirArbre(B);
+            m_right->m_root = m_root; m_right->construirArbre(ball);
         }
         else
         {
@@ -129,50 +129,57 @@ void BallTree::postOrdre(std::vector<std::list<Coordinate>>& out) {
     // TODO: TASCA 2
 }
 
-Coordinate BallTree::nodeMesProperRec(Coordinate targetQuery, Coordinate& Q, BallTree* ball, bool primer) {
+Coordinate BallTree::nodeMesProperRec(Coordinate targetQuery, Coordinate& Q, BallTree* ball) {
 
-    double D1 = Util::DistanciaHaversine(targetQuery, ball->m_pivot);
-    double D2 = Util::DistanciaHaversine(ball->m_pivot, Q);
-    if (D1 - ball->m_radi >= D2)
+    Util util;
+
+    double D1 = util.DistanciaHaversine(ball->getPivot(), targetQuery);
+    double D2 = util.DistanciaHaversine(targetQuery, Q);
+
+    if (D1 - ball->getRadi() >= D2)
         return Q;
 
-
-
-    if (ball->m_coordenades.size() == 1)
+    if (ball->getDreta() != nullptr && ball->getEsquerre() != nullptr)
     {
-        if (primer)
-            Q = ball->m_coordenades[0];
-        else {
-            D1 = Util::DistanciaHaversine(targetQuery, Q);
-            D2 = Util::DistanciaHaversine(targetQuery, m_coordenades[0]);
-
-            if (D2 < D1)
-                Q = ball->m_coordenades[0]; // CREO QUE ESTO
+        for (Coordinate c : ball->getCoordenades())
+        {
+            if (util.DistanciaHaversine(targetQuery, c) < util.DistanciaHaversine(targetQuery, Q))
+                Q = c;
         }
     }
-    else if (ball->m_coordenades.size() > 1) //s'ha de mirar que no sigui fulla
+    else
     {
-        double Da = Util::DistanciaHaversine(targetQuery, ball->m_left->m_pivot);
-        double Db = Util::DistanciaHaversine(targetQuery, ball->m_right->m_pivot);
+        double Da = 99999, Db = 99999;
+        if (ball->getDreta() != nullptr)
+            Db = util.DistanciaHaversine(ball->getDreta()->getPivot(), targetQuery);
+        if (ball->getEsquerre() != nullptr)
+            Da = util.DistanciaHaversine(ball->getEsquerre()->getPivot(), targetQuery);
+
         if (Da < Db)
         {
-            nodeMesProperRec(targetQuery, Q, ball->m_left, true);
-            nodeMesProperRec(targetQuery, Q, ball->m_right, false);
+            if (ball->getEsquerre() != nullptr)
+                Q = nodeMesProperRec(targetQuery, Q, ball->getEsquerre());
+            if (ball->getDreta() != nullptr)
+                Q = nodeMesProperRec(targetQuery, Q, ball->getDreta());
         }
         else
         {
-            nodeMesProperRec(targetQuery, Q, ball->m_right, true);
-            nodeMesProperRec(targetQuery, Q, ball->m_left, false);
+            if (ball->getDreta() != nullptr)
+                Q = nodeMesProperRec(targetQuery, Q, ball->getDreta());
+            if (ball->getEsquerre() != nullptr)
+                Q = nodeMesProperRec(targetQuery, Q, ball->getEsquerre());
         }
-
     }
+
     return Q;
+
+
 }
 
 Coordinate BallTree::nodeMesProper(Coordinate targetQuery, Coordinate& Q, BallTree* ball) {
     // TODO: TASCA 3
     Q.lat = 0.0;
     Q.lon = 0.0;
-
-    return nodeMesProperRec(targetQuery, Q, ball, true);
-}
+    if (ball!=nullptr || !ball->m_coordenades.empty())
+        return nodeMesProperRec(targetQuery, Q, ball);
+} 

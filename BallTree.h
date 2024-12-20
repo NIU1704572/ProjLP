@@ -86,9 +86,8 @@ private:
 
 	std::vector<Coordinate> m_coordenades;
 
-	Coordinate nodeMesProperRec(Coordinate targetQuery, Coordinate& Q, BallTree* ball, bool primer);
+	Coordinate nodeMesProperRec(Coordinate targetQuery, Coordinate& Q, BallTree* ball);
 };
 
 
 #endif
-

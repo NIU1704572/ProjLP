@@ -145,14 +145,14 @@ CamiBase* MapaSolucio::buscaCamiMesCurt(PuntDeInteresBase* desde, PuntDeInteresB
 	tree.nodeMesProper(desde->getCoord(), Q1, &tree);
 	tree.nodeMesProper(a->getCoord(), Q2, &tree);
 
-	stack<pair<string, Coordinate>> pila;
-	m_graf.camiCurt(Q1, Q2, pila);
+	vector<Coordinate> pila;
+	pila = m_graf.BuscarCami(Q1, Q2);
 	CamiSolucio* cami = new CamiSolucio;
 
-	for (int i = 0; i < pila.size(); i++)
+	for (int i = pila.size() - 1; i >= 0; i--)
 	{
-		cami->afegeixCoord(pila.top().second);
-		pila.pop();
+		cami->afegeixCoord(pila[i]);
+
 	}
 	return cami;
 }
